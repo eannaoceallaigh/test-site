@@ -5,6 +5,7 @@
     "home_page_url": "https://eannaoceallaigh.github.io/test-site",
     "feed_url": "https://eannaoceallaigh.github.io/test-site/feed.json",
     "user_comment": "",
+    "icon": "https://eannaoceallaigh.github.io/test-site/media/website/Kelly-Electrical-Logo-2.jpg",
     "author": {
         "name": "kec"
     },
@@ -12,18 +13,17 @@
         {
             "id": "https://eannaoceallaigh.github.io/test-site/contact.html",
             "url": "https://eannaoceallaigh.github.io/test-site/contact.html",
-            "title": "Contact Information",
-            "summary": "Email: info@example.com Phone: 555-1234",
-            "content_html": "<p>Email: info@example.com</p>\n<p>Phone: 555-1234</p>",
-            "image": "https://eannaoceallaigh.github.io/test-site/media/posts/1/Kelly-Electrical-Logo-2.jpg",
+            "title": "The electrical specialists",
+            "summary": "We serve all your commercial, industrial and residential needs Contact us today for a quote! Email: info@example.com Phone: 555-1234 Follow&hellip;",
+            "content_html": "<h2>We serve all your commercial, industrial and residential needs</h2>\n<p>Contact us today for a quote!</p>\n<p>Email: <a href=\"mailto:info@example.com\">info@example.com</a></p>\n<p>Phone: 555-1234</p>\n<p>Follow us on Facebook: <a href=\"https://facebook.com\">https://facebook.com</a></p>\n<p>Follow us on LinkedIn: <a href=\"https://linkedin.com\">https://linkedin.com</a></p>",
+            "image": "https://eannaoceallaigh.github.io/test-site/media/posts/1/electrical.jpeg",
             "author": {
                 "name": "kec"
             },
             "tags": [
-                   "contact"
             ],
             "date_published": "2022-10-28T19:50:23+01:00",
-            "date_modified": "2022-10-28T20:21:49+01:00"
+            "date_modified": "2022-10-28T21:35:16+01:00"
         }
     ]
 }
