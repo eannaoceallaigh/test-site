@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eannaoceallaigh.github.io/test-site/sitemap.xml
