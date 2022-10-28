@@ -13,8 +13,8 @@
             "id": "https://eannaoceallaigh.github.io/test-site/contact.html",
             "url": "https://eannaoceallaigh.github.io/test-site/contact.html",
             "title": "Contact Information",
-            "summary": "Email: Phone:",
-            "content_html": "<p>Email:</p>\n<p>Phone:</p>",
+            "summary": "Email: info@example.com Phone: 555-1234",
+            "content_html": "<p>Email: info@example.com</p>\n<p>Phone: 555-1234</p>",
             "image": "https://eannaoceallaigh.github.io/test-site/media/posts/1/Kelly-Electrical-Logo-2.jpg",
             "author": {
                 "name": "kec"
@@ -23,7 +23,7 @@
                    "contact"
             ],
             "date_published": "2022-10-28T19:50:23+01:00",
-            "date_modified": "2022-10-28T20:06:53+01:00"
+            "date_modified": "2022-10-28T20:21:49+01:00"
         }
     ]
 }

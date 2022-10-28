@@ -3,7 +3,7 @@
     <title>kec</title>
     <link href="https://eannaoceallaigh.github.io/test-site/feed.xml" rel="self" />
     <link href="https://eannaoceallaigh.github.io/test-site" />
-    <updated>2022-10-28T20:06:53+01:00</updated>
+    <updated>2022-10-28T20:21:49+01:00</updated>
     <author>
         <name>kec</name>
     </author>
@@ -18,18 +18,18 @@
         <id>https://eannaoceallaigh.github.io/test-site/contact.html</id>
             <category term="contact"/>
 
-        <updated>2022-10-28T20:06:53+01:00</updated>
+        <updated>2022-10-28T20:21:49+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://eannaoceallaigh.github.io/test-site/media/posts/1/Kelly-Electrical-Logo-2.jpg" alt="" />
-                    Email: Phone:
+                    Email: info@example.com Phone: 555-1234
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://eannaoceallaigh.github.io/test-site/media/posts/1/Kelly-Electrical-Logo-2.jpg" alt="" />
-                <p>Email:</p>
-<p>Phone:</p>
+                <p>Email: info@example.com</p>
+<p>Phone: 555-1234</p>
             ]]>
         </content>
     </entry>
